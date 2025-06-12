@@ -20,3 +20,8 @@ This project analyzes customer churn in a bank using an Excel dataset containing
  Data Cleaning & Processing
  Pivot Tables: Used for analyzing customer behavior based on categorical variables.
  Data Analysis ToolPak: Used for statistical testing (Significance level = 0.05).
+
+ **sample Dashboard**
+ ------------------
+ ![Dashboard](https://github.com/user-attachments/assets/d5f1e909-1f40-4078-b453-7c9ca77492fe)
+
